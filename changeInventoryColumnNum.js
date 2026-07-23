@@ -3,8 +3,8 @@
 // @version      V1.0.1
 // @description  Changes the amount of columns per inventory from 7 to however many is desired within input (recommended 10 or lower). Made mostly for myself to get a bit more on the page horizontally rather than vertically.
 // @author       EsiEni
-// @downloadURL  https://github.com/EsiEni/NeopetsScripts/changeInventoryColumnNum.js
-// @updateURL    https://github.com/EsiEni/NeopetsScripts/changeInventoryColumnNum.js
+// @downloadURL  https://github.com/EsiEni/NeopetsScripts/blob/main/changeInventoryColumnNum.js
+// @updateURL    https://github.com/EsiEni/NeopetsScripts/blob/main/changeInventoryColumnNum.js
 // @license      Unlicense
 // @match        *://*.neopets.com/inventory.phtml*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=neopets.com
